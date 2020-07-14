@@ -1,4 +1,4 @@
-<img src="https://notlmn.github.io/images/notlmn.jpg" alt="Portrait of Laxman" width="300" align="right">
+<img src="https://notlmn.github.io/images/notlmn.jpg" alt="Portrait of Laxman" width="280" align="right">
 
 Hey there 👋 I'm **Laxman**,  I work on OSS, mostly into web technologies.
 
