@@ -1,5 +1,3 @@
-<img src="https://notlmn.github.io/images/notlmn.jpg" alt="Portrait of Laxman" width="280" align="right">
-
 Hey there 👋 I'm **Laxman**,  I work on OSS, mostly into web technologies.
 
 Here's some stuff that you might like to know about me:
